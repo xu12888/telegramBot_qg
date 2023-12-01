@@ -1,0 +1,15 @@
+{
+  "name": "telegrambot_qg",
+  "version": "1.0.0",
+  "description": "教学群管机器人",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
